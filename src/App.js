@@ -102,142 +102,145 @@ function App() {
     },
     {
       id: 5,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question:
+        "In which group of places the Kumbha Mela is held every twelve years?",
       answers: [
         {
-          text: "KGF 2",
+          text: "Ujjain. Purl; Prayag. Haridwar",
           correct: false,
         },
         {
-          text: "Kantara",
-          correct: false,
-        },
-        {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "Prayag. Haridwar, Ujjain,. Nasik",
           correct: true,
+        },
+        {
+          text: "Rameshwaram. Purl, Badrinath. Dwarika",
+          correct: false,
+        },
+        {
+          text: "Chittakoot, Ujjain, Prayag,'Haridwar",
+          correct: false,
         },
       ],
     },
     {
       id: 6,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question: "Bahubali festival is related to",
       answers: [
         {
-          text: "KGF 2",
+          text: "Islam",
           correct: false,
         },
         {
-          text: "Kantara",
+          text: "Hinduism",
           correct: false,
         },
         {
-          text: "Pushpa, The Rise",
+          text: "Buddhism",
           correct: false,
         },
         {
-          text: "RRR",
+          text: "Jainism",
           correct: true,
         },
       ],
     },
     {
       id: 7,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question: "Which day is observed as the World Standards  Day?",
       answers: [
         {
-          text: "KGF 2",
+          text: "June 26",
           correct: false,
         },
         {
-          text: "Kantara",
+          text: "Dec 2",
           correct: false,
         },
         {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "Oct 14",
           correct: true,
+        },
+        {
+          text: "Nov 15",
+          correct: false,
         },
       ],
     },
     {
       id: 8,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question:
+        "Which of the following Muslim festivals is based on the 'Holy Quran' ?",
       answers: [
         {
-          text: "KGF 2",
-          correct: false,
-        },
-        {
-          text: "Kantara",
-          correct: false,
-        },
-        {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "Id -ul-Zuha",
           correct: true,
+        },
+        {
+          text: "Id -ul-Fitr",
+          correct: false,
+        },
+        {
+          text: "Bakri-id",
+          correct: false,
+        },
+        {
+          text: "Moharram",
+          correct: false,
         },
       ],
     },
     {
       id: 9,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question: "The first month of the Indian national calendar is",
       answers: [
         {
-          text: "KGF 2",
+          text: "Magha",
           correct: false,
         },
         {
-          text: "Kantara",
-          correct: false,
-        },
-        {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "Chaitra",
           correct: true,
+        },
+        {
+          text: "Ashadha",
+          correct: false,
+        },
+        {
+          text: "Vaishakha",
+          correct: false,
         },
       ],
     },
     {
       id: 10,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question: "Kalarippayat isthe martial art  of the State of",
       answers: [
         {
-          text: "KGF 2",
+          text: "Madhya Pradesh",
           correct: false,
         },
         {
-          text: "Kantara",
+          text: "Mizoram",
           correct: false,
         },
         {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "Kerala",
           correct: true,
+        },
+        {
+          text: "Nagaland",
+          correct: false,
         },
       ],
     },
     {
       id: 11,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question:
+        "Which of the following years was celebrated as the World Communication Year?",
       answers: [
         {
-          text: "KGF 2",
+          text: "1981",
           correct: false,
         },
         {
@@ -245,11 +248,11 @@ function App() {
           correct: false,
         },
         {
-          text: "Pushpa, The Rise",
+          text: "1987",
           correct: false,
         },
         {
-          text: "RRR",
+          text: "1983",
           correct: true,
         },
       ],
@@ -278,67 +281,68 @@ function App() {
     },
     {
       id: 13,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question: "'Good Friday' is observed to commemorate the event of",
       answers: [
         {
-          text: "KGF 2",
+          text: "birth of Jesus Christ",
           correct: false,
         },
         {
-          text: "Kantara",
+          text: "birth of' St. Peter",
           correct: false,
         },
         {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "crucification 'of Jesus Christ",
           correct: true,
+        },
+        {
+          text: "rebirth of Jesus Christ",
+          correct: false,
         },
       ],
     },
     {
       id: 14,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question: "Pongal is a popular festival of which state?",
       answers: [
         {
-          text: "KGF 2",
+          text: "Karnataka",
           correct: false,
         },
         {
-          text: "Kantara",
+          text: "Kerala",
           correct: false,
         },
         {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "Tamil Nadu",
           correct: true,
+        },
+        {
+          text: "Andhra Pradesh",
+          correct: false,
         },
       ],
     },
     {
       id: 15,
-      question: "Which Indian Movie own Oscar in 2023?",
+      question:
+        "Which of the following was the theme of the World Red Cross and Red Crescent Day?",
       answers: [
         {
-          text: "KGF 2",
+          text: "'Dignity for all - focus on women'",
           correct: false,
         },
         {
-          text: "Kantara",
-          correct: false,
-        },
-        {
-          text: "Pushpa, The Rise",
-          correct: false,
-        },
-        {
-          text: "RRR",
+          text: "'Dignity for all - focus on Children'",
           correct: true,
+        },
+        {
+          text: "'Focus on health for all'",
+          correct: false,
+        },
+        {
+          text: "'Nourishment for all-focus on children'",
+          correct: false,
         },
       ],
     },
